@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\ChatterCore.props" />
+  <Import Project="../buildMultiTargeting/ChatterCore.props" />
 </Project>

@@ -8,32 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Choli\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/rosario/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Choli\\source\\repos\\ChatterCore\\ChatterCore.csproj",
+      "projectUniqueName": "/home/rosario/Documents/ChatterCore/ChatterCore.csproj",
       "projectName": "ChatterCore",
-      "projectPath": "C:\\Users\\Choli\\source\\repos\\ChatterCore\\ChatterCore.csproj",
-      "packagesPath": "C:\\Users\\Choli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Choli\\source\\repos\\ChatterCore\\obj\\",
+      "projectPath": "/home/rosario/Documents/ChatterCore/ChatterCore.csproj",
+      "packagesPath": "/home/rosario/.nuget/packages/",
+      "outputPath": "/home/rosario/Documents/ChatterCore/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Choli\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/rosario/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -76,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/nix/store/v4xyl5bppwpm59k5lf1yhsyicwd5xxv1-dotnet-sdk-9.0.200/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
